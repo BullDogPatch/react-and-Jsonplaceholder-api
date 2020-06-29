@@ -64,11 +64,14 @@
   }
   .name-container {
     width: 90%;
-    margin: auto;
+    margin: 30px auto;
     flex-direction: column;
   }
   .list-item {
     padding: 5px;
     margin: auto;
+  }
+  .list-item h4 {
+    padding: 10px;
   }
 }
